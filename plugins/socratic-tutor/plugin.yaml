@@ -1,0 +1,10 @@
+name: socratic-tutor
+version: 0.1.0
+description: "Strict Socratic tutor: bundled skill plus a persistent skill map with strictly enforced levels 0-5 and spaced-review scheduling. English/French."
+author: "MarinWasAsleep (Hermes port); original skill by Jane Street Group, LLC"
+license: MIT
+homepage: https://github.com/MarinWasAsleep/hermes-socratic-tutor
+requires_hermes: ">=0.21"
+tags: [education, tutor, skill, memory]
+provides_tools: [tutor_course]
+provides_hooks: []

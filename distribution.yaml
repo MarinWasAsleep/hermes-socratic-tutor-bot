@@ -1,0 +1,12 @@
+name: tuteur
+version: 0.1.0
+description: "Tuteur socratique strict (FR/EN): diagnostic, carte de compétences 0-5, une question à la fois, révisions espacées, progression persistante."
+hermes_requires: ">=0.21.0"
+author: "MarinWasAsleep; skill d'origine © Jane Street Group, LLC (MIT)"
+license: MIT
+distribution_owned:
+  - SOUL.md
+  - config.yaml
+  - skills
+  - plugins
+  - distribution.yaml

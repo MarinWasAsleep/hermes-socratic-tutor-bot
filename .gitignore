@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+auth.json
+.env
+.env.EXAMPLE
+memories/
+sessions/
+logs/
+state.db*
+cache/
+workspace/
+local/
+plugin-data/
